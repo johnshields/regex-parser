@@ -29,10 +29,11 @@ A Python program to build Non-Deterministic Finite Automatons from Regular Expre
 ### Clone the Repository:
 #### Open a directory of your choice in Command-Line and enter:
 ```cmd
-$ git clone https://github.com/johnshields/Python-RegEx-Parser
+$ git clone https://github.com/johnshields/regex-parser
 ```
 #### Open the repository directory in Command-Line and enter:
 ```cmd
+$ cd regex-parser
 $ python regex_parser.py
 ```
 
@@ -40,5 +41,6 @@ $ python regex_parser.py
 
 ***
 ###### END OF README
+
 
 
